@@ -1,4 +1,4 @@
-package desafio.exerccicos_loop;
+package exercicios.exerccicos_loop;
 
 import java.util.Scanner;
 

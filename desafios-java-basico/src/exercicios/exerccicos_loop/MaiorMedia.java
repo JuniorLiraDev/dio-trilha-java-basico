@@ -1,4 +1,4 @@
-package desafio.exerccicos_loop;
+package exercicios.exerccicos_loop;
 /*🔸Maior e Média: Faça um programa que leia 5 números e informe o maior número e a média desses números.*/
 
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package desafio.exercicios_variados_condicional;
+package exercicios.exercicios_variados_condicional;
 
 import java.util.Scanner;
 

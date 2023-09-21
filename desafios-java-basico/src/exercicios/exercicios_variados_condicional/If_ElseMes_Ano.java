@@ -1,4 +1,4 @@
-package desafio.exercicios_variados_condicional;
+package exercicios.exercicios_variados_condicional;
 
 public class If_ElseMes_Ano {
   public static void main(String[] args) {
